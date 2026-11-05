@@ -1,0 +1,5 @@
+Name,Mode,CopilotLocation
+Copilot - exclude Highly Confidential,TestWithNotifications,Yes
+Financial data - Exchange and SharePoint,Enable,No
+Personal data (GDPR) - all locations,Enable,No
+Card numbers - Teams chats,Enable,No
