@@ -1,0 +1,74 @@
+{
+  "organisation": "Fabrikam Energy",
+  "as_of": "2026-11-05 09:00",
+  "currency": "EUR",
+  "licence_price_month": 30,
+  "licences_owned": 520,
+  "copilot_skus": [
+    "Microsoft_365_Copilot",
+    "M365_Copilot"
+  ],
+  "inactive_days": 30,
+  "grace_days": 14,
+  "readiness_window_days": 30,
+  "training_target": 0.9,
+  "training_critical": 0.75,
+  "mfa_critical": 0.05,
+  "device_target": 0.95,
+  "device_critical": 0.85,
+  "sensitive_departments": [
+    "HR",
+    "Finance",
+    "Legal"
+  ],
+  "sensitive_labels": [
+    "Confidential",
+    "Highly Confidential"
+  ],
+  "inactive_site_days": 180,
+  "label_target": 0.6,
+  "label_critical": 0.3,
+  "allowed_connectors": [
+    "SharePoint",
+    "OneDrive for Business",
+    "Office 365 Outlook",
+    "Office 365 Users",
+    "Microsoft Teams",
+    "Dataverse",
+    "Approvals",
+    "ServiceNow",
+    "Excel Online (Business)"
+  ],
+  "agent_unused_days": 60,
+  "adoption_target": 0.6,
+  "adoption_drop": 0.1,
+  "min_champions": 1,
+  "waves": [
+    {
+      "id": "W1",
+      "name": "Pilot",
+      "go_live": "2026-09-01",
+      "planned": 120
+    },
+    {
+      "id": "W2",
+      "name": "Wave 2",
+      "go_live": "2026-11-19",
+      "planned": 400
+    },
+    {
+      "id": "W3",
+      "name": "Wave 3",
+      "go_live": "2027-01-26",
+      "planned": 600
+    }
+  ],
+  "owners": {
+    "licences": "M365 licensing (Raúl Ortega)",
+    "waves": "Copilot rollout lead (Nuria Campos)",
+    "oversharing": "SharePoint admin (Diego Martín)",
+    "labels": "Information protection (Clara Rey)",
+    "agents": "Power Platform admin (Iker Salas)",
+    "adoption": "Adoption and change (Nuria Campos)"
+  }
+}

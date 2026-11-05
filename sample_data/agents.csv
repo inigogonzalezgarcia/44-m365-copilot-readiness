@@ -1,0 +1,13 @@
+Name,Owner,Environment,Status,SharedWith,Connectors,Authentication,LastUsed,DecisionsAboutPeople,AiRegisterEntry
+Contract Finder,harry.lopez@fabrikamenergy.example,Fabrikam (default),Published,Organization,SharePoint; Dropbox,Microsoft Entra ID,2026-11-02,No,
+Candidate Screening Assistant,ines.martin2@fabrikamenergy.example,HR Production,Published,Specific people,SharePoint; Office 365 Outlook,Microsoft Entra ID,2026-10-30,Yes,
+Leave Request Checker,ines.martin2@fabrikamenergy.example,HR Production,Published,Specific people,SharePoint; Approvals,Microsoft Entra ID,2026-11-03,Yes,AIR-007
+IT Helpdesk Agent,beatriz.walker@fabrikamenergy.example,IT Production,Published,Organization,SharePoint; ServiceNow,Microsoft Entra ID,2026-11-04,No,
+Travel Policy Q&A,beatriz.castro@fabrikamenergy.example,Fabrikam (default),Published,Organization,SharePoint,Microsoft Entra ID,2026-11-01,No,
+Pilot FAQ,beatriz.walker@fabrikamenergy.example,Fabrikam (default),Published,Specific people,SharePoint,Microsoft Entra ID,2026-07-10,No,
+Tender Drafting Helper,raquel.ferreira2@fabrikamenergy.example,Procurement,Published,Specific people,SharePoint; Salesforce,Microsoft Entra ID,2026-10-29,No,
+Price List Lookup,nerea.navarro@fabrikamenergy.example,Fabrikam (default),Published,Specific people,SharePoint,Microsoft Entra ID,,No,
+Shift Handover Summariser,amelia.garcia4@fabrikamenergy.example,Operations,Published,Specific people,SharePoint; Microsoft Teams,Microsoft Entra ID,2026-11-04,No,
+Safety Incident Triage,sergio.torres2@fabrikamenergy.example,Operations,Draft,Owner only,SharePoint; Dataverse,Microsoft Entra ID,,No,
+Budget Variance Explainer,beatriz.castro@fabrikamenergy.example,Finance,Draft,Owner only,SharePoint; Excel Online (Business),Microsoft Entra ID,,No,
+Onboarding Buddy,ines.martin2@fabrikamenergy.example,HR Production,Published,Organization,SharePoint; Office 365 Users,Microsoft Entra ID,2026-11-03,No,

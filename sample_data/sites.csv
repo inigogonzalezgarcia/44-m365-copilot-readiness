@@ -1,0 +1,55 @@
+Url,Title,Template,Department,OwnerCount,Owner,SensitivityLabel,SharingCapability,EEEU permission count,Anyone link count,Number of users having access,LastContentModifiedDate,RestrictContentOrgWideSearch,RestrictedAccessControl
+https://fabrikamenergy.sharepoint.com/sites/it-service-desk,IT - Service Desk,SITEPAGEPUBLISHING#0,IT,4,sara.hughes@fabrikamenergy.example,General,Disabled,0,0,135,2026-11-03,False,False
+https://fabrikamenergy.sharepoint.com/sites/it-infrastructure,IT - Infrastructure,GROUP#0,IT,2,sara.hughes@fabrikamenergy.example,Internal,Disabled,0,0,115,2026-10-05,False,False
+https://fabrikamenergy.sharepoint.com/sites/it-architecture,IT - Architecture,GROUP#0,IT,4,laura.garcia@fabrikamenergy.example,General,Disabled,0,0,134,2026-09-24,False,False
+https://fabrikamenergy.sharepoint.com/sites/it-security-operations,IT - Security Operations,GROUP#0,IT,4,david.romero@fabrikamenergy.example,General,Disabled,0,0,111,2026-10-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/it-projects,IT - Projects,GROUP#0,IT,1,hugo.marin@fabrikamenergy.example,General,Disabled,0,0,112,2026-10-24,False,False
+https://fabrikamenergy.sharepoint.com/sites/it-change-board,IT - Change Board,GROUP#0,IT,0,,General,Disabled,0,0,115,2026-07-23,False,False
+https://fabrikamenergy.sharepoint.com/sites/execu-leadership-team,Executive - Leadership Team,GROUP#0,Executive,4,marta.garcia@fabrikamenergy.example,Confidential,Disabled,0,0,33,2026-10-30,False,False
+https://fabrikamenergy.sharepoint.com/sites/execu-board-papers,Executive - Board Papers,SITEPAGEPUBLISHING#0,Executive,2,emma.santos2@fabrikamenergy.example,Confidential,Disabled,0,0,31,2026-10-29,False,False
+https://fabrikamenergy.sharepoint.com/sites/finan-accounts-payable,Finance - Accounts Payable,GROUP#0,Finance,2,david.walker@fabrikamenergy.example,,Disabled,0,0,146,2026-11-04,False,False
+https://fabrikamenergy.sharepoint.com/sites/finan-budget-2027,Finance - Budget 2027,GROUP#0,Finance,2,ines.walker@fabrikamenergy.example,Confidential,Disabled,1,0,1650,2026-11-04,True,False
+https://fabrikamenergy.sharepoint.com/sites/finan-treasury,Finance - Treasury,GROUP#0,Finance,1,sara.vazquez@fabrikamenergy.example,,Disabled,0,0,135,2026-10-16,False,False
+https://fabrikamenergy.sharepoint.com/sites/finan-month-end-close,Finance - Month-End Close,GROUP#0,Finance,2,mariana.martin@fabrikamenergy.example,,Disabled,0,0,124,2026-10-22,False,False
+https://fabrikamenergy.sharepoint.com/sites/finan-audit-2026,Finance - Audit 2026,GROUP#0,Finance,1,harry.costa@fabrikamenergy.example,Confidential,Disabled,0,0,150,2026-08-06,False,False
+https://fabrikamenergy.sharepoint.com/sites/finan-tax,Finance - Tax,GROUP#0,Finance,3,sara.blanco@fabrikamenergy.example,Confidential,Disabled,0,0,143,2026-07-21,False,False
+https://fabrikamenergy.sharepoint.com/sites/sales-campaigns,Sales and Marketing - Campaigns,GROUP#0,Sales and Marketing,3,amelia.munoz@fabrikamenergy.example,General,Disabled,0,0,169,2026-10-27,False,False
+https://fabrikamenergy.sharepoint.com/sites/sales-price-lists,Sales and Marketing - Price Lists,SITEPAGEPUBLISHING#0,Sales and Marketing,2,luis.ortiz@fabrikamenergy.example,General,ExternalUserSharingOnly,0,6,210,2026-10-24,False,False
+https://fabrikamenergy.sharepoint.com/sites/sales-brand-assets,Sales and Marketing - Brand Assets,GROUP#0,Sales and Marketing,1,alvaro.iglesias2@fabrikamenergy.example,General,Disabled,0,0,177,2026-10-28,False,False
+https://fabrikamenergy.sharepoint.com/sites/sales-key-accounts,Sales and Marketing - Key Accounts,GROUP#0,Sales and Marketing,2,sara.evans@fabrikamenergy.example,Internal,Disabled,0,0,148,2026-08-29,False,False
+https://fabrikamenergy.sharepoint.com/sites/sales-events,Sales and Marketing - Events,GROUP#0,Sales and Marketing,4,alvaro.ruiz@fabrikamenergy.example,Internal,Disabled,0,0,157,2026-10-18,False,False
+https://fabrikamenergy.sharepoint.com/sites/hr-employee-relations,HR - Employee Relations,GROUP#0,HR,1,elena.ortiz@fabrikamenergy.example,General,Disabled,4,0,1650,2026-11-02,False,False
+https://fabrikamenergy.sharepoint.com/sites/hr-payroll-and-benefits,HR - Payroll and Benefits,SITEPAGEPUBLISHING#0,HR,2,thomas.ferreira@fabrikamenergy.example,Confidential,Disabled,2,0,1650,2026-10-27,False,False
+https://fabrikamenergy.sharepoint.com/sites/hr-recruitment-2025,HR - Recruitment 2025,GROUP#0,HR,1,elena.ortiz@fabrikamenergy.example,,ExternalUserSharingOnly,0,3,184,2026-09-01,False,False
+https://fabrikamenergy.sharepoint.com/sites/hr-learning,HR - Learning,GROUP#0,HR,3,alba.torres@fabrikamenergy.example,Confidential,Disabled,0,0,90,2026-09-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/hr-policies,HR - Policies,GROUP#0,HR,3,raquel.clarke2@fabrikamenergy.example,Confidential,Disabled,0,0,97,2026-07-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/legal-contracts,Legal - Contracts,GROUP#0,Legal,1,mariana.ramos@fabrikamenergy.example,Confidential,Disabled,0,0,45,2026-10-22,False,False
+https://fabrikamenergy.sharepoint.com/sites/legal-litigation-2023-closed,Legal - Litigation 2023 (closed),SITEPAGEPUBLISHING#0,Legal,0,,Confidential,Disabled,1,0,1650,2025-09-09,False,False
+https://fabrikamenergy.sharepoint.com/sites/legal-regulatory,Legal - Regulatory,GROUP#0,Legal,3,ines.clarke2@fabrikamenergy.example,Confidential,Disabled,0,0,40,2026-10-16,False,False
+https://fabrikamenergy.sharepoint.com/sites/custo-knowledge-base,Customer Service - Knowledge Base,GROUP#0,Customer Service,4,luis.ruiz@fabrikamenergy.example,Internal,Disabled,0,0,245,2026-07-18,False,False
+https://fabrikamenergy.sharepoint.com/sites/custo-billing-disputes,Customer Service - Billing Disputes,GROUP#0,Customer Service,2,luis.carvalho2@fabrikamenergy.example,General,Disabled,0,0,257,2026-10-17,False,False
+https://fabrikamenergy.sharepoint.com/sites/custo-team-rotas,Customer Service - Team Rotas,SITEPAGEPUBLISHING#0,Customer Service,0,,,Disabled,0,0,251,2026-10-01,False,False
+https://fabrikamenergy.sharepoint.com/sites/custo-quality,Customer Service - Quality,GROUP#0,Customer Service,3,beatriz.romero@fabrikamenergy.example,General,Disabled,0,0,240,2026-08-24,False,False
+https://fabrikamenergy.sharepoint.com/sites/procu-tenders,Procurement - Tenders,GROUP#0,Procurement,3,oscar.gil@fabrikamenergy.example,General,ExternalUserSharingOnly,0,0,92,2026-07-22,False,False
+https://fabrikamenergy.sharepoint.com/sites/procu-supplier-onboarding,Procurement - Supplier Onboarding,GROUP#0,Procurement,2,hugo.vazquez2@fabrikamenergy.example,General,ExternalUserSharingOnly,0,0,95,2026-09-29,False,False
+https://fabrikamenergy.sharepoint.com/sites/procu-framework-agreements,Procurement - Framework Agreements,GROUP#0,Procurement,2,beatriz.marin@fabrikamenergy.example,General,ExternalUserSharingOnly,0,0,96,2026-10-04,False,False
+https://fabrikamenergy.sharepoint.com/sites/tradi-desk-procedures,Trading - Desk Procedures,SITEPAGEPUBLISHING#0,Trading,2,amelia.sanz@fabrikamenergy.example,General,Disabled,0,0,82,2026-10-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/tradi-risk-reports,Trading - Risk Reports,SITEPAGEPUBLISHING#0,Trading,4,rocio.evans@fabrikamenergy.example,General,Disabled,0,0,72,2026-09-01,False,False
+https://fabrikamenergy.sharepoint.com/sites/tradi-market-data,Trading - Market Data,GROUP#0,Trading,4,nerea.vazquez3@fabrikamenergy.example,Internal,Disabled,0,0,62,2026-09-29,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-standards-library,Engineering - Standards Library,SITEPAGEPUBLISHING#0,Engineering,2,pablo.blanco@fabrikamenergy.example,General,Disabled,2,0,1650,2026-09-23,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-wind-projects,Engineering - Wind Projects,GROUP#0,Engineering,3,amelia.diaz2@fabrikamenergy.example,Internal,Disabled,0,0,369,2026-09-05,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-solar-projects,Engineering - Solar Projects,GROUP#0,Engineering,2,rocio.ramos@fabrikamenergy.example,Internal,Disabled,0,0,365,2026-07-20,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-grid-connections,Engineering - Grid Connections,GROUP#0,Engineering,4,rita.walker2@fabrikamenergy.example,General,Disabled,0,0,344,2026-09-17,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-design-reviews,Engineering - Design Reviews,GROUP#0,Engineering,2,alvaro.rubio@fabrikamenergy.example,General,Disabled,0,0,349,2026-09-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/engin-cad-archive-2022,Engineering - CAD Archive 2022,GROUP#0,Engineering,0,,,Disabled,0,0,335,2024-08-29,False,False
+https://fabrikamenergy.sharepoint.com/sites/opera-shift-handover,Operations - Shift Handover,SITEPAGEPUBLISHING#0,Operations,2,marcos.blanco@fabrikamenergy.example,General,Disabled,3,0,1650,2026-10-18,False,False
+https://fabrikamenergy.sharepoint.com/sites/opera-plant-procedures,Operations - Plant Procedures,GROUP#0,Operations,2,diego.alvarez2@fabrikamenergy.example,Internal,Disabled,0,0,388,2026-08-28,False,False
+https://fabrikamenergy.sharepoint.com/sites/opera-maintenance-planning,Operations - Maintenance Planning,GROUP#0,Operations,3,marcos.vazquez@fabrikamenergy.example,General,Disabled,0,0,395,2026-07-19,False,False
+https://fabrikamenergy.sharepoint.com/sites/opera-outages,Operations - Outages,GROUP#0,Operations,2,rita.dominguez@fabrikamenergy.example,Internal,Disabled,0,0,415,2026-10-28,False,False
+https://fabrikamenergy.sharepoint.com/sites/opera-spares,Operations - Spares,SITEPAGEPUBLISHING#0,Operations,2,irene.ortiz@fabrikamenergy.example,General,Disabled,0,0,387,2026-11-04,False,False
+https://fabrikamenergy.sharepoint.com/sites/healt-incident-reports,Health and Safety - Incident Reports,SITEPAGEPUBLISHING#0,Health and Safety,2,ruben.marin@fabrikamenergy.example,Internal,Disabled,0,0,73,2026-09-27,False,False
+https://fabrikamenergy.sharepoint.com/sites/healt-risk-assessments,Health and Safety - Risk Assessments,GROUP#0,Health and Safety,4,joao.hughes@fabrikamenergy.example,General,Disabled,0,0,68,2026-10-31,False,False
+https://fabrikamenergy.sharepoint.com/sites/healt-toolbox-talks,Health and Safety - Toolbox Talks,SITEPAGEPUBLISHING#0,Health and Safety,4,oscar.evans@fabrikamenergy.example,General,Disabled,0,0,86,2026-10-23,False,False
+https://fabrikamenergy.sharepoint.com/sites/field-work-orders,Field Services - Work Orders,GROUP#0,Field Services,4,luis.carvalho4@fabrikamenergy.example,Internal,Disabled,0,0,257,2026-08-27,False,False
+https://fabrikamenergy.sharepoint.com/sites/field-vehicle-fleet,Field Services - Vehicle Fleet,SITEPAGEPUBLISHING#0,Field Services,1,luis.carvalho4@fabrikamenergy.example,General,Disabled,0,0,261,2026-10-05,False,False
+https://fabrikamenergy.sharepoint.com/sites/field-field-photos-2023,Field Services - Field Photos 2023,SITEPAGEPUBLISHING#0,Field Services,0,,,Disabled,1,0,1650,2025-02-26,False,False
